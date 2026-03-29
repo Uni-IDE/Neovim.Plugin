@@ -1,2 +1,2 @@
 # Neovim.Plugin
-Commonly used Plugins &amp; Extensions for Neovim!
+How-to use: Common Plugins & Extensions for Neovim!
